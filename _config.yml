@@ -20,7 +20,7 @@ author: Buddhaconnect.com
 ###############################################
 
 navbar-links:
-  站点介绍: "站点介绍"
+  站点介绍: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
