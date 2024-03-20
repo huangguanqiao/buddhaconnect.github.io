@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: 网站介绍
+subtitle: 佛缘导航旗下子站点
 ---
 
 My name is Inigo Montoya. I have the following qualities:
