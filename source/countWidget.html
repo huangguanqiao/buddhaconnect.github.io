@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="buddhaconnect.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <script src="buddhaconnect.js"></script>
+
+    <div style="text-align: center">
+      <div
+        id="counter"
+        style="
+          font-size: 18px;
+          margin-top: 20px;
+          margin-bottom: 20px;
+          border: 1px solid #3498db;
+          padding: 10px;
+          border-radius: 8px;
+        "
+      >
+        计数器: 0
+      </div>
+      <button id="circleButton" class="button" onclick="incrementCounter()">
+        <i class="fas fa-plus"></i> 计数
+      </button>
+      <button id="resetButton" class="button-red" onclick="resetCounter()">
+        <i class="fas fa-sync-alt"></i> 重置
+      </button>
+    </div>
+  </body>
+</html>
